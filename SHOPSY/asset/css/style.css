@@ -1,0 +1,25 @@
+.pad {
+    padding-left: 200px;
+}
+
+.main {
+    background-image: url("/asset/css/istockphoto-1145604997-612x612.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 500px;
+
+}
+
+.bg {
+    background-color: aqua;
+    width: 200vw;
+    height: 125vh;
+
+}
+
+.border {
+    border: solid 5px coral;
+    padding-left: 50px;
+}
